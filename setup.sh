@@ -12,9 +12,6 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
-# Install express module
-npm install -g express
-
 # Install jshint to allow checking of JS code within emacs
 # http://jshint.com/
 npm install -g jshint
